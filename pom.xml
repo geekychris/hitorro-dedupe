@@ -6,7 +6,7 @@
 
     <groupId>com.hitorro</groupId>
     <artifactId>hitorro-dedupe</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
     <packaging>jar</packaging>
 
     <name>Hitorro Dedupe</name>
@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.hitorro</groupId>
             <artifactId>hitorro-util</artifactId>
-            <version>3.0.0</version>
+            <version>3.0.1</version>
         </dependency>
 
         <!-- High-performance collections for efficient deduplication -->
