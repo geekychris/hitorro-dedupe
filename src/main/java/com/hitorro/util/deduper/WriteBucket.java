@@ -27,9 +27,7 @@ import com.hitorro.util.core.map.TroveMapUtil;
 import java.io.File;
 import java.io.IOException;
 
-/**
- *
- */
+
 public class WriteBucket implements BucketHash {
     private ReadBucket readBucket;
     private File file;

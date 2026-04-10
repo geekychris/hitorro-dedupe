@@ -28,9 +28,7 @@ import com.hitorro.util.io.FileUtil;
 import java.io.File;
 import java.io.IOException;
 
-/**
- *
- */
+
 public class ReadBucket implements BucketHash {
     private TLongHashSet hashSet;
     private File file;

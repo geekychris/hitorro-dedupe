@@ -30,9 +30,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
 
-/**
- *
- */
+
 public class BucketContainer {
     private static FilenameExtensionFilter filter = new FilenameExtensionFilter("map", true);
     private int counter = 0;

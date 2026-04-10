@@ -23,9 +23,7 @@ package com.hitorro.util.persistedbloomfilter;
 
 import java.util.Comparator;
 
-/**
- *
- */
+
 class OldestBVCS implements Comparator<BitVectorContext> {
     public static final OldestBVCS Comp = new OldestBVCS();
 

@@ -32,9 +32,7 @@ import java.io.DataOutputStream;
 import java.io.File;
 import java.io.IOException;
 
-/**
- *
- */
+
 public class BitVectorContext {
     long lastMarked = -1;
     private BitVector bv = null;

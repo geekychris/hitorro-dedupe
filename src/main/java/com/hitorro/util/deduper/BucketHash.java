@@ -21,9 +21,7 @@
  */
 package com.hitorro.util.deduper;
 
-/**
- *
- */
+
 public interface BucketHash {
     public boolean exists(long hash);
 
