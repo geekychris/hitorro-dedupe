@@ -30,7 +30,7 @@ import java.util.Comparator;
  * Assume the files are dated using time in millis.
  */
 public class FileDateComp implements Comparator<File> {
-    public static final FileDateComp comp = new FileDateComp();
+    public static FileDateComp comp = new FileDateComp();
 
     @Override
     public int compare(File o1, File o2) {

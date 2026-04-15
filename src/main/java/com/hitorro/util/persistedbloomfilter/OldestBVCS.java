@@ -25,7 +25,7 @@ import java.util.Comparator;
 
 
 class OldestBVCS implements Comparator<BitVectorContext> {
-    public static final OldestBVCS Comp = new OldestBVCS();
+    public static OldestBVCS Comp = new OldestBVCS();
 
     public int compare(BitVectorContext b1, BitVectorContext b2) {
         if (b1.lastMarked > b2.lastMarked) {
