@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Hitorro Dedupe logo" width="180">
+</p>
+
 # Hitorro Dedupe
 
 This is the **hitorro-dedupe** project, providing data deduplication utilities including bloom filters and hash-based deduplication algorithms.
