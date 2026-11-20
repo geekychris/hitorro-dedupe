@@ -1,0 +1,5 @@
+bloom.adds=truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,truetrue,
+bloom.files=0.bv:521:277b101c8cbea2a6 1.bv:521:edd008f83b398c46 15.bv:521:b2cae40e3ea7860f 16.bv:521:edd008f83b398c46 188.bv:521:fb43495472ca9a70 5.bv:521:cc3e9a53351874ee 
+bloom.reopen.exists=truetrue,truetrue,truetrue,truetrue,truefalse,truetrue,truefalse,truetrue,truefalse,truefalse,truefalse,truefalse,
+bucket.files=bucket.map:96:740f5b40da5ea458 
+bucket.reopen.exists=truefalse,truefalse,truefalse,truefalse,truefalse,truefalse,truefalse,truefalse,truefalse,truefalse,truefalse,truefalse, size=12
